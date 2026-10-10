@@ -1,8 +1,8 @@
 ## installation 
 ``` apt upgrade && apt update
 apt install git python
-git clone https://github.com/Gofaone315/hack_simulation
-cd hack_simulation
+git clone https://github.com/Go4one315/HackSimulator
+cd HackSimulator
 chmod +x main.py
 python main.py
 ```
